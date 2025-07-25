@@ -1,9 +1,10 @@
+import PostsTable from "./components/PostsTable"
 
 function App() {
 
   return (
     <>
-      <p className=" font-black">Hello</p>
+    <PostsTable />
     </>
   )
 }
